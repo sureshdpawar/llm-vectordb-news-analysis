@@ -1,0 +1,7 @@
+sentence-transformers
+xformers
+chromadb
+pandas
+numpy
+matplotlib
+
